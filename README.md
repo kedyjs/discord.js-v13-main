@@ -63,4 +63,4 @@ In this section, you will find the necessary steps to run the project on your lo
 4. Start the bot
    ```sh
    npm start
-```
+   ```
