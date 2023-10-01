@@ -1,0 +1,25 @@
+{
+  "name": "kedy-v13",
+  "version": "1.0.0",
+  "main": "kedy.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "kedy",
+  "license": "MIT",
+  "dependencies": {
+    "discord.js": "^13.6.0",
+    "fs": "^0.0.1-security"
+  },
+  "keywords": ["kedy"],
+  "description": "Written with discord.js@13.6.0 clean Discord bot",
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kedyjs/kedy-v13.git"
+  },
+  "bugs": {
+    "url": "https://github.com/kedyjs/kedy-v13/issues"
+  },
+  "homepage": "https://github.com/kedyjs/kedy-v13#readme"
+}
